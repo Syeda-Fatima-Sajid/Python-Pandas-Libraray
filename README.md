@@ -51,16 +51,22 @@ How to join and append DataFrames for combining datasets.
 **12. Pivot Table and Melt Functions in Python Pandas.ipynb**
 
 Guide on creating pivot tables and using the melt function for reshaping data.
+
 **Data Files**
+
 **5.create_csv_file.csv**
 Example CSV file created during the notebook on creating CSV files.
+
 **7.sample_data.csv**
 Sample data used for various operations in the Pandas functions notebook.
+
 **8.sample_data_40_entries.csv**
 Sample data with missing values used in the notebook on handling missing data.
+
 **Prerequisites**
 Python 3.x
 Pandas library installed (pip install pandas)
 Jupyter Notebook or an equivalent environment
+
 **License**
 This repository is licensed under the MIT License. Feel free to use and modify the content as needed.
